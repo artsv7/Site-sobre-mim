@@ -1,0 +1,43 @@
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    font-family: "Times New Roman", serif;
+    color: purple;
+    text-align: center;
+    display: block;
+  }
+  main{
+    display: block;
+    float: left;
+  }
+
+  .img {
+    float: right;
+    border: 5px solid black;
+    width: 400px;
+  }
+  
+  .info {
+    font-family: Verdana, sans-serif;
+    color: purple;
+    border: 2px solid #000000;
+    padding: 10px;
+    margin-right: 20px;
+    float: right;
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 14px;
+    color: #888888;
+    margin-top: 50px;
+    display: block;
+  }
